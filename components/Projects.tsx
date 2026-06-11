@@ -4,8 +4,20 @@ import { useState } from "react";
 import ProjectModal from "./ProjectModal";
 
 export default function Projects() {
-  const [selectedProject, setSelectedProject] = useState<any>(null);
-
+  type MediaItem = {
+    type: string;
+    src: string;
+  };
+  
+  type ProjectType = {
+    icon: string;
+    title: string;
+    description: string;
+    media: MediaItem[];
+  };
+  
+  const [selectedProject, setSelectedProject] =
+    useState<ProjectType | null>(null);
   const projects = [
     {
       icon: "🔒",
