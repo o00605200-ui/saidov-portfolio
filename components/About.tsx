@@ -16,7 +16,7 @@ export default function About() {
               </h3>
   
               <p className="text-gray-300 leading-8">
-                Talimarjon IES AJ IAO' sexida Mehanik kattaliklar
+                Talimarjon IES AJ IAO sexida Mehanik kattaliklar
                 va himoya guruhida 4-darajali elektr chilangar
                 lavozimida faoliyat yuritaman.
               </p>

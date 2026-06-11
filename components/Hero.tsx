@@ -73,7 +73,7 @@ export default function Hero() {
             </div>
           </motion.div>
 
-          {/* O'ng qism */}
+          {/* Ong qism */}
           <motion.div
             initial={{ opacity: 0, x: 80 }}
             animate={{ opacity: 1, x: 0 }}

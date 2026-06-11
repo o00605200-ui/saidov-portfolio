@@ -42,7 +42,7 @@ export default function Experience() {
             </h4>
 
             <p className="text-gray-400 mt-3">
-              IAO' sexi — Mexanik kattaliklar va himoya guruhi
+              IAO sexi — Mexanik kattaliklar va himoya guruhi
             </p>
 
             <div className="grid md:grid-cols-2 gap-4 mt-8">
@@ -60,11 +60,11 @@ export default function Experience() {
               </div>
 
               <div className="bg-black/40 p-4 rounded-xl">
-                🔧 Ta'mirlash va diagnostika
+                🔧 Tamirlash va diagnostika
               </div>
 
               <div className="bg-black/40 p-4 rounded-xl">
-                ⚙️ Texnik xizmat ko'rsatish
+                ⚙️ Texnik xizmat korsatish
               </div>
 
               <div className="bg-black/40 p-4 rounded-xl">
